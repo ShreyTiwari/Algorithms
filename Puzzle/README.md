@@ -1,4 +1,4 @@
-#A puzzle circulated in WhatsApp groups.
+# A puzzle circulated in WhatsApp groups.
 
 10 people standing in a circle in an order from 1 to 10.
 
